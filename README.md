@@ -1,7 +1,7 @@
 # motion-detection-opencv
 motion detection using opencv python, takes input from live camera feed.
 ## description
-basically this script alerts you wnever the luve camera feed has changed, the code is stolen from another repo i cannot find.
+basically this script alerts you whenever the live camera feed has changed, the code is stolen from another repo i cannot find.
 so all credit goes to you.
 ### features
 - define how intense change has to be before counting it as actual motion
